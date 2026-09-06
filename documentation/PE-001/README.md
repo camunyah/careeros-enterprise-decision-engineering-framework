@@ -552,7 +552,7 @@ Every stage advances the enterprise toward better executive decisions.
 
 This progression is illustrated through the **Enterprise Decision Intelligence Journey**, the first Signature Visual of the CareerOS Enterprise Decision Engineering Framework.
 
-<p align="center">
+<div align="center">
 
 <img src="images/signature-visuals/SV-001-Enterprise_Decision_Intelligence_Journey.png" width="100%">
 
@@ -562,7 +562,7 @@ This progression is illustrated through the **Enterprise Decision Intelligence J
 
 *Illustrates the progressive transformation of enterprise data into trustworthy executive decision intelligence through the CareerOS Enterprise Decision Engineering Framework.*
 
-</p>
+</div>
 
 ---
 
@@ -572,7 +572,7 @@ The Enterprise Decision Engineering Architecture explains **how** it is organize
 
 Together they establish the conceptual foundation of Enterprise Decision Engineering.
 
-<p align="center">
+<div align="center">
 
 <img src="images/signature-visuals/SV-002-Enterprise_Decision_Engineering_Architecture.png" width="100%">
 
@@ -582,7 +582,7 @@ Together they establish the conceptual foundation of Enterprise Decision Enginee
 
 *Illustrates the six integrated enterprise capabilities that progressively transform enterprise intelligence into trustworthy executive decision-making.*
 
-</p>
+</div>
 
 ---
 
@@ -834,7 +834,7 @@ A philosophy that transforms enterprise intelligence from a sequence of analytic
 
 ---
 
-<p align="center">
+<div align="center">
 
 <img src="images/signature-visuals/SV-004-Progressive_Enterprise_Asset_Engineering.png" width="100%">
 
@@ -842,7 +842,7 @@ A philosophy that transforms enterprise intelligence from a sequence of analytic
 
 *Progressive Enterprise Asset Engineering*
 
-</p>
+</div>
 
 ---
 
@@ -1083,7 +1083,7 @@ Together they contribute to the continued growth and maturation of Enterprise De
 
 ---
 
-<p align="center">
+<div align="center">
 
 <img src="images/signature-visuals/SV-005-CareerOS_Enterprise_Value_Journey.png" width="100%">
 
@@ -1091,7 +1091,7 @@ Together they contribute to the continued growth and maturation of Enterprise De
 
 *CareerOS Enterprise Value Journey*
 
-</p>
+</div>
 
 Illustrates the long-term CareerOS ecosystem from executive vision to organizational transformation.
 
