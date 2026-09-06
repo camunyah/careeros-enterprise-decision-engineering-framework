@@ -47,21 +47,19 @@ Architect & Creator of the CareerOS Enterprise Decision Engineering Framework
 
 ---
 
-<p align="center">
+<div align="center">
 
 <img src="images/covers/CDC-010-Reference_Standard_Cover.png" width="100%">
 
-</p>
+<br>
 
-<p align="center">
-  
 **CareerOS Publications**
 
 **Official Preview Edition**
 
 **PE-001**
 
-</p>
+</div>
 
 ---
 
