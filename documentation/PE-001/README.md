@@ -49,7 +49,7 @@ Architect & Creator of the CareerOS Enterprise Decision Engineering Framework
 
 <div align="center">
 
-<img src="images/covers/CDC-010-Reference_Standard_Cover.png" width="100%">
+<img src="images/covers/CDC-010-Reference_Standard_Cover.png" width="85%">
 
 <br>
 
@@ -554,7 +554,7 @@ This progression is illustrated through the **Enterprise Decision Intelligence J
 
 <div align="center">
 
-<img src="images/signature-visuals/SV-001-Enterprise_Decision_Intelligence_Journey.png" width="100%">
+<img src="images/signature-visuals/SV-001-Enterprise_Decision_Intelligence_Journey.png" width="85%">
 
 **Signature Visual SV-001**
 
@@ -574,7 +574,7 @@ Together they establish the conceptual foundation of Enterprise Decision Enginee
 
 <div align="center">
 
-<img src="images/signature-visuals/SV-002-Enterprise_Decision_Engineering_Architecture.png" width="100%">
+<img src="images/signature-visuals/SV-002-Enterprise_Decision_Engineering_Architecture.png" width="85%">
 
 **Signature Visual SV-002**
 
@@ -836,7 +836,7 @@ A philosophy that transforms enterprise intelligence from a sequence of analytic
 
 <div align="center">
 
-<img src="images/signature-visuals/SV-004-Progressive_Enterprise_Asset_Engineering.png" width="100%">
+<img src="images/signature-visuals/SV-004-Progressive_Enterprise_Asset_Engineering.png" width="85%">
 
 **Signature Visual SV-004**
 
@@ -1085,7 +1085,7 @@ Together they contribute to the continued growth and maturation of Enterprise De
 
 <div align="center">
 
-<img src="images/signature-visuals/SV-005-CareerOS_Enterprise_Value_Journey.png" width="100%">
+<img src="images/signature-visuals/SV-005-CareerOS_Enterprise_Value_Journey.png" width="85%">
 
 **Signature Visual SV-005**
 
