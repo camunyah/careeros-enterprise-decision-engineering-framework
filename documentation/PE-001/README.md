@@ -53,6 +53,8 @@ Architect & Creator of the CareerOS Enterprise Decision Engineering Framework
 
 </p>
 
+**Official Preview Edition**
+
 ---
 
 # Copyright
@@ -1024,6 +1026,8 @@ Together they contribute to the continued growth and maturation of Enterprise De
 
 </p>
 
+Illustrates the long-term CareerOS ecosystem from executive vision to organizational transformation.
+
 ---
 
 ## From Vision to Enterprise Value
@@ -1186,7 +1190,7 @@ The journey has only begun.
 
 # About CareerOS
 
-CareerOS is an enterprise engineering initiative dedicated to advancing the theory and practice of Enterprise Decision Engineering.
+CareerOS is the official enterprise engineering ecosystem supporting the continued development, publication, implementation, and advancement of Enterprise Decision Engineering.
 
 Its mission is to help organizations transform enterprise intelligence into trustworthy executive decision intelligence through disciplined engineering, enterprise governance, applied research, intelligent software, executive education, and professional consulting.
 
