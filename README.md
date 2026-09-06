@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 
 # CareerOS Enterprise Decision Engineering Framework (CEDEF)
 
@@ -8,47 +8,53 @@
 
 **Official Framework Portal**
 
-📄 Reference Standard Version 1.0
+📘 Reference Standard Version 1.0
 
-</p>
+</div>
 
 ---
 
 # Welcome to CEDEF
 
-The **CareerOS Enterprise Decision Engineering Framework (CEDEF)** introduces a new enterprise engineering discipline designed to transform enterprise data into trustworthy, explainable, and actionable executive decision intelligence.
+The **CareerOS Enterprise Decision Engineering Framework (CEDEF)** introduces a new enterprise engineering discipline dedicated to transforming enterprise intelligence into trustworthy, explainable, and actionable executive decision intelligence.
 
-Rather than treating Enterprise Data Engineering, Business Intelligence, Artificial Intelligence, and Executive Decision Support as isolated capabilities, CEDEF integrates them into a unified enterprise engineering methodology that supports better organizational decisions.
+Rather than treating Enterprise Data Engineering, Business Intelligence, Artificial Intelligence, Predictive Intelligence, and Executive Decision Support as isolated technical capabilities, CEDEF integrates them into a governed enterprise engineering architecture focused on one objective:
 
-This repository provides an executive introduction to the framework, its guiding philosophy, enterprise architecture, and real-world reference implementations.
+> **Better organizational decisions.**
+
+This repository serves as the official home of the framework, presenting its philosophy, architecture, signature innovations, publications, and enterprise reference implementations.
 
 ---
 
 # Why CEDEF Exists
 
-Every organization collects enormous volumes of enterprise data.
+Organizations have never possessed greater volumes of enterprise data.
 
-Yet many continue to struggle with the same challenge:
+Business Intelligence, Artificial Intelligence, Machine Learning, and Predictive Analytics have dramatically improved the ability to generate enterprise insight.
 
-> **How do we transform enterprise data into better organizational decisions?**
+Yet organizations continue to struggle with one enduring challenge.
 
-Traditional analytics initiatives often conclude with dashboards, reports, or predictive models.
+> **How do we consistently transform enterprise intelligence into trustworthy executive decisions?**
 
-CEDEF extends the enterprise intelligence lifecycle by providing a disciplined engineering methodology that transforms enterprise data into explainable executive decision intelligence capable of supporting operational planning, organizational governance, and strategic decision-making.
+Traditional analytics initiatives frequently conclude with dashboards, reports, predictive models, or AI solutions.
+
+Enterprise Decision Engineering extends that lifecycle by engineering how enterprise intelligence becomes governed, explainable, accountable, and actionable executive decision intelligence.
 
 ---
 
-# Enterprise Architecture
+# Enterprise Decision Engineering Architecture
 
-<p align="center">
+<div align="center">
 
-<img src="images/framework/figure_01_framework_architecture.png"
-     alt="CareerOS Enterprise Decision Engineering Framework"
-     width="1100">
+<img src="images/signature-visuals/SV-002-enterprise-decision-engineering-architecture.png" width="95%">
 
-</p>
+### Signature Visual SV-002
 
-> **The six enterprise intelligence layers of the CareerOS Enterprise Decision Engineering Framework.**
+**Enterprise Decision Engineering Architecture**
+
+*Illustrates the six integrated enterprise capabilities that systematically transform enterprise intelligence into trustworthy executive decision-making.*
+
+</div>
 
 ---
 
@@ -56,96 +62,130 @@ CEDEF extends the enterprise intelligence lifecycle by providing a disciplined e
 
 ## 🏛 Enterprise Decision Engineering
 
-CEDEF introduces Enterprise Decision Engineering as a structured organizational discipline that extends enterprise analytics beyond prediction toward trustworthy executive decision support.
+Enterprise Decision Engineering extends enterprise intelligence beyond analytics by introducing a governed engineering discipline focused on decision quality rather than analytical output alone.
+
+The destination is not more intelligence.
+
+The destination is better organizational decisions.
 
 ---
 
 ## 🧠 Progressive Enterprise Asset Engineering
 
-Enterprise intelligence should mature progressively.
+One of CEDEF's defining innovations is **Progressive Enterprise Asset Engineering**.
 
-Each organizational intelligence layer contributes enterprise assets that strengthen the analytical foundation supporting the next layer of enterprise capability.
+Every engineering initiative should produce governed, reusable enterprise assets that strengthen future organizational capability.
+
+Projects conclude.
+
+Enterprise capability should continue to grow.
 
 ---
 
 ## 🤖 Enterprise AI Capability Engineering
 
-Artificial Intelligence should become an organizational capability rather than an isolated technical implementation.
+Artificial Intelligence should operate as a governed enterprise capability rather than an isolated technical implementation.
 
-CEDEF integrates Enterprise AI within a governed enterprise engineering lifecycle that supports explainability, governance, executive confidence, and organizational value.
+Within CEDEF, Enterprise AI is engineered to support explainability, governance, executive confidence, and measurable organizational value.
 
 ---
 
 # Framework in Action
 
-The CareerOS Enterprise Decision Engineering Framework is currently demonstrated through its flagship reference implementation.
+The CareerOS Enterprise Decision Engineering Framework is demonstrated through its official enterprise reference implementation.
 
-## 🏪 Official Retail Reference Implementation
+## 🛍 Official Retail Decision Intelligence Reference Implementation
 
 ### AI-Driven Demand Forecasting & Inventory Optimization
 
-Demonstrating:
+Demonstrates:
 
 - Enterprise Data Engineering
-- Business Intelligence
-- Enterprise AI
-- Predictive Intelligence
-- Decision Intelligence
-- Executive Decision Support
+- Business Intelligence Engineering
+- Enterprise AI Capability Engineering
+- Predictive Intelligence Engineering
+- Decision Intelligence Engineering
+- Executive Decision Engineering
 
-➡️ **Explore the Reference Implementation**
-
-https://github.com/camunyah/ai-demand-forecasting-inventory-optimization
+➡️ https://github.com/camunyah/ai-demand-forecasting-inventory-optimization
 
 ---
 
-# Download Center
+# Publications
 
-The CareerOS publication ecosystem progressively introduces the framework while protecting its underlying engineering methodology.
+The CareerOS Publications series introduces, explains, and progressively expands Enterprise Decision Engineering through executive publications, preview editions, and reference standards.
 
 ## 📄 Executive White Paper
 
-A concise executive introduction to the CareerOS Enterprise Decision Engineering Framework.
+**WP-001**
 
-**Status:** Coming Soon
+**Enterprise Decision Engineering**
+
+*Why Enterprise Intelligence Needs an Engineering Discipline*
+
+**Status:** ✅ Published
 
 ---
 
-## 📖 Preview Edition
+## 📘 Preview Edition
 
-Selected introductory chapters introducing the philosophy, architecture, and vision of Enterprise Decision Engineering.
+**PE-001**
 
-**Status:** Coming Soon
+**CareerOS Enterprise Decision Engineering Framework**
+
+Preview Edition
+
+**Status:** ✅ Published
 
 ---
 
 ## 📚 Reference Standard
 
-The complete CareerOS Enterprise Decision Engineering Framework Reference Standard is currently under development.
+**RS-001**
 
-**Status:** In Preparation
+CareerOS Enterprise Decision Engineering Framework
+
+**Status:** 🚧 In Development
+
+---
+
+## 📖 CareerOS Publications Repository
+
+Explore the complete CareerOS publication library.
+
+➡️ https://github.com/camunyah/careeros-publications
 
 ---
 
 # CareerOS Vision
 
-CareerOS is an enterprise engineering initiative dedicated to advancing Enterprise Decision Engineering through research, standards development, intelligent software, executive education, consulting, and real-world reference implementations.
+CareerOS is an enterprise engineering ecosystem dedicated to advancing Enterprise Decision Engineering through:
 
-Its mission is to help organizations transform enterprise data into trustworthy executive decision intelligence through disciplined engineering.
+- Research
+- Reference Standards
+- Executive White Papers
+- Enterprise Software
+- Reference Implementations
+- Executive Education
+- Professional Consulting
+- Certification
+
+Its mission is to help organizations transform enterprise intelligence into trustworthy executive decision intelligence through disciplined enterprise engineering.
 
 ---
 
 # CareerOS Ecosystem
 
-The CareerOS ecosystem consists of three complementary GitHub repositories.
+The CareerOS ecosystem consists of four complementary repositories.
 
 | Repository | Purpose |
 |------------|---------|
-| 🏠 **Executive Portal** | Professional profile and executive overview |
-| 📘 **Framework Portal** | CareerOS Enterprise Decision Engineering Framework |
-| 🏪 **Reference Implementation** | AI-Driven Demand Forecasting & Inventory Optimization |
+| 🏠 **Executive Portal** | Meet the architect and explore the CareerOS vision |
+| 📘 **Framework Portal** | Understand the CareerOS Enterprise Decision Engineering Framework |
+| 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering in practice |
+| 📄 **CareerOS Publications** | Executive White Papers, Preview Editions, and Reference Standards |
 
-Together these repositories provide a complete view of the CareerOS vision, framework, and enterprise implementation.
+Together these repositories provide a complete enterprise engineering journey—from executive vision, to framework, to implementation, to a growing body of professional knowledge.
 
 ---
 
@@ -155,27 +195,35 @@ Together these repositories provide a complete view of the CareerOS vision, fram
 
 Meet the architect behind CareerOS and explore the broader professional vision.
 
-https://github.com/camunyah
+➡️ https://github.com/camunyah
 
 ---
 
-### 🏪 Official Retail Reference Implementation
+### 🛍 Reference Implementation Portal
 
-See the CareerOS Enterprise Decision Engineering Framework applied to a real Enterprise AI solution.
+See Enterprise Decision Engineering applied to a real enterprise solution.
 
-https://github.com/camunyah/ai-demand-forecasting-inventory-optimization
+➡️ https://github.com/camunyah/ai-demand-forecasting-inventory-optimization
+
+---
+
+### 📄 CareerOS Publications
+
+Download Executive White Papers, Preview Editions, and future Reference Standards.
+
+➡️ https://github.com/camunyah/careeros-publications
 
 ---
 
 ### 💼 LinkedIn
 
-Follow future publications, executive insights, framework updates, and Enterprise AI thought leadership.
+Follow future publications, executive insights, framework updates, and Enterprise Decision Engineering thought leadership.
 
-https://www.linkedin.com/in/chuck-munyah-asaah-4379b563/
+➡️ https://www.linkedin.com/in/chuck-munyah-asaah-4379b563/
 
 ---
 
-## CareerOS Enterprise Decision Engineering Philosophy
+# CareerOS Enterprise Decision Engineering Philosophy
 
 > **From Data to Decisions.**
 
@@ -187,12 +235,12 @@ https://www.linkedin.com/in/chuck-munyah-asaah-4379b563/
 
 ---
 
-<p align="center">
+<div align="center">
 
-### CareerOS Enterprise Decision Engineering Framework
+### CareerOS Enterprise Decision Engineering Framework (CEDEF)
 
 **Official Framework Portal**
 
 Reference Standard Version 1.0
 
-</p>
+</div>
