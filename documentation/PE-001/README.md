@@ -53,7 +53,15 @@ Architect & Creator of the CareerOS Enterprise Decision Engineering Framework
 
 </p>
 
+<p align="center">
+
+**CareerOS Publications**
+
 **Official Preview Edition**
+
+**PE-001**
+
+</p>
 
 ---
 
@@ -532,6 +540,40 @@ It is an enterprise capability model.
 
 ---
 
+## The Enterprise Decision Intelligence Journey
+
+Before examining the architecture of the framework, it is useful to understand the journey it was designed to support.
+
+Enterprise Decision Engineering views enterprise intelligence not as a collection of isolated analytical activities, but as a progressive transformation of enterprise knowledge into trustworthy executive decision intelligence.
+
+Every capability builds upon the one before it.
+
+Every engineering activity contributes to organizational maturity.
+
+Every stage advances the enterprise toward better executive decisions.
+
+This progression is illustrated through the **Enterprise Decision Intelligence Journey**, the first Signature Visual of the CareerOS Enterprise Decision Engineering Framework.
+
+<p align="center">
+
+<img src="images/signature-visuals/SV-001-Enterprise_Decision_Intelligence_Journey.png" width="100%">
+
+**Signature Visual SV-001**
+
+*Enterprise Decision Intelligence Journey*
+
+*Illustrates the progressive transformation of enterprise data into trustworthy executive decision intelligence through the CareerOS Enterprise Decision Engineering Framework.*
+
+</p>
+
+---
+
+The Enterprise Decision Intelligence Journey explains **what** the framework accomplishes.
+
+The Enterprise Decision Engineering Architecture explains **how** it is organized.
+
+Together they establish the conceptual foundation of Enterprise Decision Engineering.
+
 <p align="center">
 
 <img src="images/signature-visuals/SV-002-Enterprise_Decision_Engineering_Architecture.png" width="100%">
@@ -540,7 +582,34 @@ It is an enterprise capability model.
 
 *Enterprise Decision Engineering Architecture*
 
+*Illustrates the six integrated enterprise capabilities that progressively transform enterprise intelligence into trustworthy executive decision-making.*
+
 </p>
+
+---
+
+## A Unified Enterprise Architecture
+
+The CareerOS Enterprise Decision Engineering Framework is organized around six complementary enterprise capabilities.
+
+Each capability performs a distinct engineering responsibility.
+
+Each strengthens the next.
+
+Together they create a progressive enterprise intelligence ecosystem capable of supporting trustworthy executive decision-making.
+
+The six enterprise capabilities are:
+
+1. Enterprise Data Engineering
+2. Business Intelligence Engineering
+3. Enterprise AI Capability Engineering
+4. Predictive Intelligence Engineering
+5. Decision Intelligence Engineering
+6. Executive Decision Engineering
+
+Although presented sequentially, these capabilities should not be interpreted as isolated implementation phases.
+
+They operate continuously, reinforcing one another as enterprise intelligence matures.
 
 ---
 
@@ -1124,39 +1193,68 @@ Most importantly, it is an invitation to participate in the continued evolution 
 
 ## Continue the Journey
 
-This Preview Edition intentionally concludes where the complete **CareerOS Enterprise Decision Engineering Framework Reference Standard** begins.
+This Preview Edition introduces the philosophy and foundations of **Enterprise Decision Engineering**.
 
-The Reference Standard expands every concept introduced in this publication through:
+The complete **CareerOS Enterprise Decision Engineering Framework Reference Standard** expands every concept introduced in this publication through comprehensive engineering methodologies, governance models, implementation guidance, certification standards, and practical enterprise reference implementations.
 
-- Engineering Packages
-- Enterprise Governance Standards
-- Implementation Methodologies
-- Certification Models
-- Engineering Templates
-- Reference Implementations
-- Enterprise Engineering Workflows
+The CareerOS ecosystem has been designed to support every stage of that journey—from understanding the discipline to applying it in real-world organizations.
 
-The broader CareerOS ecosystem provides multiple pathways for continuing that journey.
+Explore the resources below to continue your journey.
 
-### 🏛 Framework Portal
+---
 
-Explore the complete CareerOS Enterprise Decision Engineering Framework and its supporting engineering philosophy.
+### 🏛 CareerOS Framework Portal
 
-### 💼 Executive Portal
+Explore the official **CareerOS Enterprise Decision Engineering Framework**, including its philosophy, architecture, signature innovations, and supporting engineering principles.
 
-Discover the CareerOS vision, publications, research initiatives, and professional thought leadership.
+**Recommended for:**
 
-### 🛍 Reference Implementations
+- Enterprise Architects
+- Technology Leaders
+- Executive Decision Makers
+- Researchers
 
-Experience Enterprise Decision Engineering through practical enterprise implementations demonstrating the framework in action.
+---
 
 ### 📄 Executive White Papers
 
-Explore focused publications covering Enterprise Decision Engineering, Decision Intelligence, Enterprise AI Governance, Progressive Enterprise Asset Engineering, and Executive Decision Support.
+Read concise executive publications exploring key concepts such as:
+
+- Enterprise Decision Engineering
+- Decision Intelligence
+- Enterprise AI Governance
+- Progressive Enterprise Asset Engineering
+- Executive Decision Support
+
+Designed for executives seeking strategic insight without the depth of the complete Reference Standard.
+
+---
+
+### 🛍 Reference Implementations
+
+Experience Enterprise Decision Engineering through practical implementations demonstrating how the framework can be applied to real organizational challenges.
+
+Each implementation illustrates the transition from enterprise intelligence to measurable business value.
+
+---
 
 ### 📚 Reference Standards
 
-Follow the continuing development of the CareerOS engineering standards library as the discipline continues to mature.
+Explore the official CareerOS engineering standards library.
+
+These publications provide comprehensive engineering guidance, implementation methodologies, governance models, engineering packages, templates, certification procedures, and reference architectures.
+
+---
+
+### 💼 Executive Portal
+
+Learn more about the CareerOS vision, research initiatives, publications, consulting services, educational programs, and long-term roadmap for advancing Enterprise Decision Engineering as a professional discipline.
+
+---
+
+> **Enterprise Decision Engineering is more than a framework.**
+>
+> **It is a growing body of knowledge, a professional discipline, and a continuing journey toward better organizational decision-making.**
 
 ---
 
