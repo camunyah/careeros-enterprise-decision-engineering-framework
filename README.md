@@ -107,13 +107,13 @@ Demonstrates:
 - Decision Intelligence Engineering
 - Executive Decision Engineering
 
-➡️ https://github.com/camunyah/ai-demand-forecasting-inventory-optimization
+➡️ **[Open the Official Reference Implementation](https://github.com/camunyah/ai-demand-forecasting-inventory-optimization)**
 
 ---
 
 # Publications
 
-The CareerOS Publications series introduces, explains, and progressively expands Enterprise Decision Engineering through executive publications, preview editions, and reference standards.
+CareerOS publications progressively introduce, explain, and expand Enterprise Decision Engineering through executive thought leadership and professional engineering publications.
 
 ## 📄 Executive White Paper
 
@@ -133,7 +133,7 @@ The CareerOS Publications series introduces, explains, and progressively expands
 
 **CareerOS Enterprise Decision Engineering Framework**
 
-Preview Edition
+*Official Markdown Publication*
 
 **Status:** ✅ Published
 
@@ -143,23 +143,25 @@ Preview Edition
 
 **RS-001**
 
-CareerOS Enterprise Decision Engineering Framework
+**CareerOS Enterprise Decision Engineering Framework**
+
+*Official Engineering Standard*
 
 **Status:** 🚧 In Development
 
 ---
 
-## 📖 CareerOS Publications Repository
+## 📄 CareerOS Publications
 
-Explore the complete CareerOS publication library.
+Explore the official CareerOS publication library.
 
-➡️ https://github.com/camunyah/careeros-publications
+➡️ **[CareerOS Publications Repository](https://github.com/camunyah/careeros-publications)**
 
 ---
 
 # CareerOS Vision
 
-CareerOS is an enterprise engineering ecosystem dedicated to advancing Enterprise Decision Engineering through:
+CareerOS is an enterprise engineering ecosystem dedicated to advancing **Enterprise Decision Engineering** through:
 
 - Research
 - Reference Standards
@@ -182,10 +184,10 @@ The CareerOS ecosystem consists of four complementary repositories.
 |------------|---------|
 | 🏠 **Executive Portal** | Meet the architect and explore the CareerOS vision |
 | 📘 **Framework Portal** | Understand the CareerOS Enterprise Decision Engineering Framework |
-| 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering in practice |
-| 📄 **CareerOS Publications** | Executive White Papers, Preview Editions, and Reference Standards |
+| 🛍 **Reference Implementation Portal** | Experience Enterprise Decision Engineering through practical enterprise implementations |
+| 📄 **CareerOS Publications** | Executive White Papers and executive thought leadership |
 
-Together these repositories provide a complete enterprise engineering journey—from executive vision, to framework, to implementation, to a growing body of professional knowledge.
+Together these repositories establish the official CareerOS Enterprise Decision Engineering ecosystem—connecting executive leadership, framework architecture, enterprise implementation, and professional publications into a unified body of knowledge.
 
 ---
 
@@ -195,23 +197,23 @@ Together these repositories provide a complete enterprise engineering journey—
 
 Meet the architect behind CareerOS and explore the broader professional vision.
 
-➡️ https://github.com/camunyah
+➡️ **[Visit the Executive Portal](https://github.com/camunyah)**
 
 ---
 
 ### 🛍 Reference Implementation Portal
 
-See Enterprise Decision Engineering applied to a real enterprise solution.
+Experience Enterprise Decision Engineering applied to a real enterprise solution.
 
-➡️ https://github.com/camunyah/ai-demand-forecasting-inventory-optimization
+➡️ **[Open the Reference Implementation](https://github.com/camunyah/ai-demand-forecasting-inventory-optimization)**
 
 ---
 
 ### 📄 CareerOS Publications
 
-Download Executive White Papers, Preview Editions, and future Reference Standards.
+Explore Executive White Papers and future CareerOS publications.
 
-➡️ https://github.com/camunyah/careeros-publications
+➡️ **[CareerOS Publications Repository](https://github.com/camunyah/careeros-publications)**
 
 ---
 
@@ -219,18 +221,18 @@ Download Executive White Papers, Preview Editions, and future Reference Standard
 
 Follow future publications, executive insights, framework updates, and Enterprise Decision Engineering thought leadership.
 
-➡️ https://www.linkedin.com/in/chuck-munyah-asaah-4379b563/
+➡️ **[Connect on LinkedIn](https://www.linkedin.com/in/chuck-munyah-asaah-4379b563/)**
 
 ---
 
 # CareerOS Enterprise Decision Engineering Philosophy
 
 > **From Data to Decisions.**
-
+>
 > **From Intelligence to Impact.**
-
+>
 > **From Engineering to Enterprise Value.**
-
+>
 > **From Innovation to Organizational Transformation.**
 
 ---
