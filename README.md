@@ -46,7 +46,7 @@ Enterprise Decision Engineering extends that lifecycle by engineering how enterp
 
 <div align="center">
 
-<img src="images/signature-visuals/SV-002-enterprise-decision-engineering-architecture.png" width="95%">
+<img src="documentation/images/signature-visuals/SV-002-enterprise-decision-engineering-architecture.png" width="95%">
 
 ### Signature Visual SV-002
 
